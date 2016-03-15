@@ -1,0 +1,21 @@
+{
+    "name": "informaticatrentina/accolorpicker",
+    "version": "1.0",
+    "description": "AC Color picker (COPY)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "Informatica Trentina SpA",
+            "homepage": "http://www.infotn.it"
+        },
+		 {
+            "name": "Sebastian Clay",
+            "homepage": "http://http://projects.ez.no/users/community/sebastian_clay"
+        }
+    ],
+    "license": "GPL-2.0",
+    "minimum-stability": "stable",
+    "extra": {
+        "ezpublish-legacy-extension-name": "accolorpicker"
+    }
+}
